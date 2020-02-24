@@ -18,3 +18,4 @@ master6
 crazy_idea2
 >>>>>>> crazy_idea
 master7
+master8
