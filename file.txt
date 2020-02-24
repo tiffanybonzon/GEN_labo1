@@ -9,7 +9,12 @@ master5
 new_branch1
 =======
 exp1
+<<<<<<< HEAD
 >>>>>>> experimental
 new_branch2
 >>>>>>> new_branch
 master6
+=======
+crazy_idea2
+>>>>>>> crazy_idea
+master7
