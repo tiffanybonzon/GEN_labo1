@@ -1,5 +1,10 @@
 master1
 master2
+<<<<<<< HEAD
 master3
 master4
 new_branch1
+=======
+exp1
+>>>>>>> experimental
+new_branch2
