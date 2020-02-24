@@ -9,6 +9,7 @@ master5
 new_branch1
 =======
 exp1
+<<<<<<< HEAD
 >>>>>>> experimental
 new_branch2
 <<<<<<< HEAD
@@ -16,6 +17,14 @@ dev1
 =======
 >>>>>>> new_branch
 master6
+<<<<<<< HEAD
 >>>>>>> master
 dev2
 dev3
+=======
+=======
+crazy_idea2
+>>>>>>> crazy_idea
+master7
+>>>>>>> master
+dev4
