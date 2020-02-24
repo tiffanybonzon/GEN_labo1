@@ -18,4 +18,9 @@ master6
 crazy_idea2
 >>>>>>> crazy_idea
 master7
+<<<<<<< HEAD
 master8
+=======
+bug_fix1
+>>>>>>> bug_fix
+master9
